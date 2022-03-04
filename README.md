@@ -39,5 +39,4 @@ Stated differently, the number of participants in each combination of disease (Y
 |X=1| c|d|
 
 What is the sample odds ratio for disease given exposure? What is the sample odds ratio for exposure given disease? Your answers should be expressions involving a, b, cand d.
-
 5. Now, use Bayes’ Theorem to show that the true odds ratio for disease given exposure equals the true odds ratio for exposure given disease.
