@@ -1,5 +1,5 @@
 # Apply multiple linear regression to study the association between all-cause mortality and creatinine, age, smoking history, sex, and race
-#### BIOST 515/518: Homework 5
+#### BIOST 515/518 Assignment 5
 #### Instructor:  Amy Willis
 
 ## Scientific Background 
